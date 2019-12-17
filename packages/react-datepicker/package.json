@@ -92,7 +92,7 @@
     "focus-trap-react": "^4.0.0",
     "json-loader": "^0.5.7",
     "prop-types": "^15.6.0",
-    "react-onclickoutside": "^6.7.1",
+    "react-onclickoutside": "^6.9.0",
     "react-popper": "^1.0.2"
   },
   "scripts": {
