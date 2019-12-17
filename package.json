@@ -58,7 +58,7 @@
     "react-beautiful-dnd": "^10.1.0",
     "react-focus-lock": "^1.17.7",
     "react-input-autosize": "^2.2.1",
-    "react-is": "~16.3.0",
+    "react-is": "~16.12.0",
     "react-virtualized": "^9.18.5",
     "resize-observer-polyfill": "^1.5.0",
     "tabbable": "^1.1.0",
